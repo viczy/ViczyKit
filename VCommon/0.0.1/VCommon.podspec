@@ -2,9 +2,9 @@ Pod::Spec.new do |s|
   s.name     = 'VCommon'
   s.version  = '0.0.1'
   s.summary  = 'Kit for VDemo in Lantop'
-  s.homepage = 'git@github.com:viczy/VCommon.git'
+  s.homepage = 'https://github.com/viczy/VCommon'
   s.authors  = { 'Lanvige Jiang' => 'lanvige@gmail.me', 'Vic Zhou' => 'vicky@ymail.com' }
-  s.source   = { :git => 'git@github.com:viczy/VCommon.git' }
+  s.source   = { :git => 'https://github.com/viczy/VCommon.git' }
   s.source_files = 'VCommon'
   s.requires_arc = true
 
