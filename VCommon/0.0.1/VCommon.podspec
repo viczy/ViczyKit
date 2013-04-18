@@ -6,6 +6,7 @@ Pod::Spec.new do |s|
   s.authors  = { 'Lanvige Jiang' => 'lanvige@gmail.me', 'Vic Zhou' => 'vicky@ymail.com' }
   s.source   = { :git => 'https://github.com/viczy/VCommon.git' }
   s.source_files = 'VCommon'
+  #s.resource = 'VCommon/Resources/Images.bundle/**/*.png'
   s.requires_arc = true
 
   s.ios.deployment_target = '5.0'
